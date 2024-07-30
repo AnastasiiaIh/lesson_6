@@ -1,0 +1,41 @@
+.title h1 {
+	font-family:"Lato";
+	font-size: 30px;
+	font-weight: 900;
+	text-align: left;
+	margin: 20px 20px 20px 20px;
+	max-width: 550px;
+	word-spacing: 10px;
+	text-align: justify;
+}
+.img img {
+	max-width: 550px;
+	margin: 20px 20px 20px 20px;
+}
+.block_1, .block_3 {
+	font-family:"Lato";
+	font-size: 13px;
+	font-weight: 700;
+	word-spacing: 3px;
+	max-width: 550px;
+	margin: 20px 20px 20px 20px;
+	line-height: 1.5;
+	text-align: justify;
+}
+.block_2 p, .block_4 p {
+	font-family:"Lato";
+	font-size: 10.5px;
+	font-style: italic;
+	max-width: 550px;
+	line-height: 1.5;
+	margin: 20px 20px 20px 20px;
+	text-align: justify;
+}
+.block_4 ul {
+	font-family:"Lato";
+	font-size: 10.5px;
+	line-height: 2;
+	max-width: 550px;
+	margin: 20px 20px 20px 20px;
+	text-align: justify;
+}
